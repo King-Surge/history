@@ -1,3 +1,4 @@
-# Headline
+## Welcome
+[filename](pages/about.md ':include')
 
-> An awesome project.
+> This site is currently being managed by KingSurge at https://github.com/King-Surge/history
