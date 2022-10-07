@@ -1,6 +1,6 @@
 ## A
 
-- **Ancient** - Belonging to the very distant past and no longer in existence. *(Old)*
+- **Ancient** - Belonging to the very distant past and or no longer in existence. *(Old)*
 
 ## C
 
