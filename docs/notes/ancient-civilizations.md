@@ -1,8 +1,8 @@
 ## Emergence of Ancient Civilizations
 
-### Important Words - [Glossary](../pages/glossary.md)
+### Important Words
 
-> :bulb: Try using the search bar to find these words. (Try the first letter of each word)
+> :bulb: Try using the search bar to find these words. (Try the first letter of each word) or visit our [Glossary](../pages/glossary.md)
 
 - ***Ancient*** - Belonging to the very distant past and or no longer in existence. *(Old)*
 
