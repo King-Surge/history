@@ -24,3 +24,23 @@
 - ***Huang He (Yellow River) & Yangtze River*** - Ancient China
 - ***Indus River*** - Ancient India
 
+## Features of a Civilization
+
+> :bulb: The Following words may not be found in the glossary. So please keep up with the definitions provided
+
+- ***Cities*** - A large permanent human settlement <br> &emsp; <img src="../img/ancient-civilizations/city.png" height="200" width="250"> <img src="../img/ancient-civilizations/city2.png" height="200" width="250">
+
+- ***Sustainable Agriculture*** - This is where persons have now moved from hunting and gathering to rearing/domesticating animals which continue to reproduce.
+Various crops are planted. <br> &emsp; <img src="../img/ancient-civilizations/agri1.jpg" height="200" width="250"> <img src="../img/ancient-civilizations/agri2.jpg" height="200" width="250">
+
+- ***Organized Government/Social Classes*** - A civilization has a body that makes rules and maintain order within the society. People of the society are ranked according to authority and status. <br> &emsp; <img src="../img/ancient-civilizations/gov1.jpeg" height="200" width="400">
+
+- ***Religon*** - Common beliefs are shared, rituals are performed and ceremonies held. <br> &emsp; <img src="../img/ancient-civilizations/religion1.jpg" height="200" width="450">
+
+- ***Specialized Jobs*** - Apart from hunting and farming, persons contribute to the society in other ways. E.g. Masonry, pottery, weaving etc. <br> &emsp; <img src="../img/ancient-civilizations/work1.jpeg" height="200" width="250"> <img src="../img/ancient-civilizations/work2.jpg" height="200" width="250">
+
+- ***Arts and Architecture*** - here are more complex structures and arts. <br> &emsp; <img src="../img/ancient-civilizations/pyramid.jpg" height="200" width="350"> <img src="../img/ancient-civilizations/Sphinx.jpg" height="200" width="250">
+
+## Quizziz
+
+[Ancient Civilizations](https://quizizz.com/join/quiz/6341b3fb1d7d42001d915f8e/start?studentShare=truehttps://quizizz.com/join/quiz/6341b3fb1d7d42001d915f8e/start?studentShare=true ':include :type=iframe width=100% height=500px')
