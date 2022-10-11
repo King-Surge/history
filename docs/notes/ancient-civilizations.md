@@ -43,4 +43,4 @@ Various crops are planted.
 
 ## Quizziz
 
-[Ancient Civilizations](https://quizizz.com/join/quiz/6341b3fb1d7d42001d915f8e/start?studentShare=truehttps://quizizz.com/join/quiz/6341b3fb1d7d42001d915f8e/start?studentShare=true ':include :type=iframe width=100% height=500px')
+[Ancient Civilizations](https://quizizz.com/join/quiz/6341b3fb1d7d42001d915f8e/start?studentShare=true ':include :type=iframe width=100% height=500px')
